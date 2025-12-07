@@ -1,6 +1,9 @@
 # ThreatFox IOC API
 
 A RESTful API for managing ThreatFox Indicators of Compromise (IOCs) including SHA256 hashes, malicious URLs, and IP:Port combinations.
+## Postman docs
+
+https://documenter.getpostman.com/view/50634891/2sB3dPTr4o
 
 ## Features
 
